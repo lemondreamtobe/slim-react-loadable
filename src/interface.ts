@@ -5,7 +5,7 @@ interface Options {
   loading: () => ReactElement
 }
 
-interface LoadStatus {
+interface LoadStatus { 
   __esModule?: boolean;
   default?: any;
 }

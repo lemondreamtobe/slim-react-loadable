@@ -14,3 +14,10 @@ const loadExample = new Loadabler({
 return loadExample.createLoadableComponent();
 
 ```
+
+# Api
+```
+├── createLoadableComponent  # 生成loadable               
+├── preload  # 组件预加载
+  
+```

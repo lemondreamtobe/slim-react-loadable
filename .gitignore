@@ -1,0 +1,11 @@
+.vscode
+.DS_Store
+node_modules
+/build/
+/logs
+/run
+/app/public
+/app/asset.json
+**/**/.DS_Store
+package-lock.json
+yarn.lock

@@ -16,15 +16,6 @@
     "baseUrl": "./client/",
     "allowSyntheticDefaultImports": true,
     "paths": {
-      "@/asset/*": ["./asset/*"],
-      "@/svg/*": ["./asset/svgs/*"],
-      "@/styles/*": ["./asset/styles/*"],
-      "@/images/*": ["./asset/images/*"],
-      "@/components/*": ["./client/common/components/*"],
-      "@/helpers/*": ["./client/common/helpers/*"],
-      "@/homePage/*": ["./client/courseroom/page/homePage/*"],
-      "@/client/*": ["./client/*"],
-      "@/pages/*": ["./client/courseroom/page/homePage/pages/*"],
     },
     "types": ["node"],
     "skipLibCheck": true
